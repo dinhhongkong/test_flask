@@ -34,6 +34,12 @@ Windows:
 pip freeze > requirements.txt
 ```
 
+## Cài đặt các thư viện từ requirements.txt
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Chạy trực tiếp bằng Python
 
 macOS/Linux:
